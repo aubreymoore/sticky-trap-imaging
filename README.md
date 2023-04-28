@@ -2,7 +2,7 @@
 
 ## TODO
 
-* **Completed 2023-04-29** Build TODO list
+* **Completed 2023-04-29.** Build TODO list
 * Clone microSD card
 * Add **power off** button to GUI
 ```
