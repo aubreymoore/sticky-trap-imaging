@@ -7,5 +7,6 @@
 ```
 sudo shutdown -h now
 ```
-* reconfigure hardware
+* Reconfigure hardware
 * Upgrade to RPi 4 and 64 MP camera
+* Split this repo so that it covers only sticy trap imaging hardware and software (RPi+camera etc.) Create a new repo, **sticky-trap-image-analysis**, to cover the rest
