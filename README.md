@@ -2,7 +2,7 @@
 
 ## TODO
 
-* Clone microSD card
+- [ ] Clone microSD card
 * Add **power off** button to GUI
 ```
 sudo shutdown -h now
