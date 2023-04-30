@@ -1,8 +1,5 @@
 # sticky-trap-imaging
 
-<a href="https://colab.research.google.com/github/aubreymoore/sticky-trap-imaging/blob/main/code/qrcode_generator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-
 ## TODO
 
 * **Completed 2023-04-29.** Build TODO list
